@@ -6,3 +6,10 @@ public class Main {
                            
     }
 }
+
+class Base{
+    int a= 10;
+}
+
+class Sub extends Base{
+}
